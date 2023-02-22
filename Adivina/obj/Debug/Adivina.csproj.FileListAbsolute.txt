@@ -1,0 +1,11 @@
+C:\Users\Paula\source\repos\Adivina\Adivina\bin\Debug\Adivina.exe.config
+C:\Users\Paula\source\repos\Adivina\Adivina\bin\Debug\Adivina.exe
+C:\Users\Paula\source\repos\Adivina\Adivina\bin\Debug\Adivina.pdb
+C:\Users\Paula\source\repos\Adivina\Adivina\obj\Debug\Adivina.csprojAssemblyReference.cache
+C:\Users\Paula\source\repos\Adivina\Adivina\obj\Debug\Adivina.Form1.resources
+C:\Users\Paula\source\repos\Adivina\Adivina\obj\Debug\Adivina.Properties.Resources.resources
+C:\Users\Paula\source\repos\Adivina\Adivina\obj\Debug\Adivina.csproj.GenerateResource.cache
+C:\Users\Paula\source\repos\Adivina\Adivina\obj\Debug\Adivina.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\Adivina\Adivina\obj\Debug\Adivina.exe
+C:\Users\Paula\source\repos\Adivina\Adivina\obj\Debug\Adivina.pdb
+C:\Users\Paula\source\repos\Adivina\Adivina\obj\Debug\Adivina.Form2.resources
